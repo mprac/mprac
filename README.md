@@ -1,6 +1,6 @@
-### Hi there 👋
+## Hi there 👋
 
-# What is mprac?
+### What is mprac?
 When I first started coding in 2007 I spent a lot of time practicing my skills in a local dev environment titled mprac, which is short for Majdi PRACtice!    
 
 <!--
