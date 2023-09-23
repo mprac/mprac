@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-### What is mprac?
-When I first started coding in 2007 I spent a lot of time practicing my skills in a local dev environment titled mprac, which is short for Majdi PRACtice!    
-
 <!--
 **mprac/mprac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
